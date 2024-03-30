@@ -1,4 +1,4 @@
-[![Discord Shield](https://discordapp.com/api/guilds/1013213427843485817/widget.png?style=shield)](https://discord.gg/V6KB4kQnKc)
+[![Discord Shield](https://discordapp.com/api/guilds/1013213427843485817/widget.png?style=shield)](https://discord.gg/)
 [![CodeQL](https://github.com/dawgcodes/discord-ticketbot/actions/workflows/codeql.yml/badge.svg)](https://github.com/dawgcodes/discord-ticketbot/actions/workflows/codeql.yml)
 ![GitHub](https://img.shields.io/github/license/dawgcodes/discord-ticketbot)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/dawgcodes/discord-ticketbot)
